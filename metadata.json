@@ -1,0 +1,6 @@
+{
+  "name": "Chronicles of Ixia: Study of Magic",
+  "description": "A 2D top-down narrative RPG inspired by Golden Sun and Final Fantasy VI, set in Maria V. Snyder's Chronicles of Ixia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
